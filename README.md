@@ -13,7 +13,7 @@
 ## 2- Client configuration
 #### Open a terminal in a root of proyect
 #### Go to Logistics-Company
-`cd server`
+`cd client`
 
 #### Get server Dependencies
 `npm i`
