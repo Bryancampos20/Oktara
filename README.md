@@ -23,3 +23,8 @@
 
 ## Solution
 ##### Add package
+![Screenshot (160)](https://github.com/Bryancampos20/Oktara/blob/main/pictures/Map.png)
+
+##### Map view
+![Screenshot (162)](https://github.com/Bryancampos20/Oktara/blob/main/pictures/Map.png)
+
