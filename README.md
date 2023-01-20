@@ -22,9 +22,11 @@
 `npm start`
 
 ## Solution
-##### Add package
-![Screenshot (160)](https://github.com/Bryancampos20/Oktara/blob/main/pictures/Map.png)
+##### Packages
+![Screenshot (160)](https://github.com/Bryancampos20/Oktara/blob/main/pictures/Package.png)
 
-##### Map view
+##### Map View
 ![Screenshot (162)](https://github.com/Bryancampos20/Oktara/blob/main/pictures/Map.png)
 
+##### Data Base
+![Screenshot (162)](https://github.com/Bryancampos20/Oktara/blob/main/pictures/SQL.png)
